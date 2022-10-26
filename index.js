@@ -9,7 +9,7 @@ app.use(cors())
 app.get('/', (req, res) => {
   res.send(data)
 })
-app.get('/:id', (req, res) => {
+app.get('/courses/:id', (req, res) => {
     const findCourse = data.find(s => s.id === req.params.id)
   res.send(findCourse)
 })

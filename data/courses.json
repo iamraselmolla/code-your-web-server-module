@@ -2,10 +2,10 @@
 	{
 		"id": "01",
 		"name": "2022 Complete Python Bootcamp From Zero to Hero in Python",
-		"author_name": "Dr. Angela Yu",
+		"author_name": "Jose Portilla",
 		"author_img": "jose.jpg",
 		"details": "You will learn how to leverage the power of Python to solve tasks.You will build games and programs that use Python libraries.You will be able to use Python for your own work problems or personal projects.You will create a portfolio of Python based projects you can share.",
-		"img": "c1.jpg",
+		"img": "c3.jpg",
 		"Duration": "22 hours",
 		"Lessons": "14 Lessons",
 		"Enrolled": 138,
@@ -15,7 +15,7 @@
 		"id": "02",
 		"name": "Python for Data Science and Machine Learning Bootcamp",
 		"details": "Use Python for Data Science and Machine Learning. Use Spark for Big Data Analysis. Implement Machine Learning Algorithms. Learn to use NumPy for Numerical Data",
-		"img": "c2.jpg",
+		"img": "c4.jpg",
 		"author_name": "Jose Portilla",
 		"author_img": "jose.jpg",
 		"Duration": "20 hours",
@@ -26,7 +26,7 @@
 	{
 		"id": "03",
 		"name": "2022 Python for Machine Learning & Data Science Masterclass",
-		"img": "c3.jpg",
+		"img": "c3-1.jpg",
         "details":"You will learn how to use data science and machine learning with Python.You will create data pipeline workflows to analyze, visualize and gain insights from data.You will build a portfolio of data science projects with real world data. You will be able to analyze your own data sets and gain insights through data science.",
 		"author_name": "Jose Portilla",
 		"author_img": "jose.jpg",
@@ -38,7 +38,7 @@
 	{
 		"id": "04",
 		"name": "React - The Complete Guide (incl Hooks, React Router, Redux)",
-		"img": "c4.jpg",
+		"img": "c1.jpg",
 		"author_name": "Max Miligan",
 		"author_img": "max.jpg",
         "details":"Build powerful, fast, user-friendly and reactive web apps. Provide amazing user experiences by leveraging the power of JavaScript with ease. Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors you can find in web dev right now . Learn all about React Hooks and React Components",
@@ -50,7 +50,7 @@
 	{
 		"id": "05",
 		"name": "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)",
-		"img": "c5.jpg",
+		"img": "c2.jpg",
 		"author_name": "Max Miligan",
 		"author_img": "max.jpg",
         "details": "Work with one of the most in-demand web development programming languages. Learn the basics as well as advanced concepts of NodeJS in great detail .Build modern, fast and scalable server-side web applications with NodeJS, databases like SQL or MongoDB and more. Understand the NodeJS ecosystem and build server-side rendered apps, REST APIs and GraphQL APIs",
@@ -62,7 +62,7 @@
 	{
 		"id": "06",
 		"name": "React Native - The Practical Guide [2022]",
-		"img": "c5.jpg",
+		"img": "c6.jpg",
 		"author_name": "Max Miligan",
 		"author_img": "max.jpg",
         "details":"Learn how to use ReactJS to build real native mobile apps for iOS and Android. Develop cross-platform (iOS and Android) mobile apps without knowing Swift, ObjectiveC or Java/ Android . Explore React Native basics and advanced features!. Learn how to use key mobile app features like Google maps or the device camera",
