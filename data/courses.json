@@ -9,7 +9,8 @@
 		"Duration": "22 hours",
 		"Lessons": "14 Lessons",
 		"Enrolled": 138,
-		"rating": 4.5
+		"rating": 4.5,
+		"price": 25
 	},
 	{
 		"id": "02",
@@ -21,7 +22,8 @@
 		"Duration": "20 hours",
 		"Lessons": "10 Lessons",
 		"Enrolled": 24557,
-		"rating": 4.8
+		"rating": 4.8,
+		"price": 30
 	},
 	{
 		"id": "03",
@@ -33,7 +35,8 @@
 		"Duration": "44 hours",
 		"Lessons": "10 Lessons",
 		"Enrolled": 2349045,
-		"rating": 4.9
+		"rating": 4.9,
+		"price": 43
 	},
 	{
 		"id": "04",
@@ -45,7 +48,8 @@
 		"Duration": "49 Hours",
 		"Lessons": "18 Lessons",
 		"Enrolled": 120499,
-		"rating": 4.7
+		"rating": 4.7,
+		"price": 32
 	},
 	{
 		"id": "05",
@@ -57,7 +61,8 @@
 		"Duration": "41 Hours",
 		"Lessons": "20 Lessons",
 		"Enrolled": 42094,
-		"rating": 4.9
+		"rating": 4.9,
+		"price": 54
 	},
 	{
 		"id": "06",
@@ -69,7 +74,8 @@
 		"Duration": "39 Hours",
 		"Lessons": "32 Lessons",
 		"Enrolled": 309499,
-		"rating": 4.5
+		"rating": 4.5,
+		"price": 30
 	},
 	{
 		"id": "07",
@@ -81,7 +87,8 @@
         "details":"Be able to build any app you want.Craft a portfolio of apps to apply for junior developer jobs. Build fully-fledged apps for your startup or business.Work as a freelance iOS developer",
 		"Lessons": "48 Lessons",
 		"Enrolled": 75566,
-		"rating": 4.5
+		"rating": 4.5,
+		"price": 40
 	},
 	{
 		"id": "08",
@@ -93,7 +100,8 @@
 		"Lessons": "65 Lessons",
 		"Enrolled":309485,
 		"rating": 4.5,
-        "details": "Be able to build any app you want.Start your own app based business.Create a portfolio of apps to apply for junior developer jobs at a technology company.Become a digital nomad by working as a freelance iOS developer"
+        "details": "Be able to build any app you want.Start your own app based business.Create a portfolio of apps to apply for junior developer jobs at a technology company.Become a digital nomad by working as a freelance iOS developer",
+		"price": 42
 	},
 	{
 		"id": "09",
@@ -105,6 +113,7 @@
 		"Lessons": "46 Lessons",
 		"Enrolled": 140294,
 		"rating": 4.5,
-        "details": "You will create a portfolio of 15 apps to be able apply for junior developer jobs at a technology company. You will learn Xcode, UIKit and SwiftUI, ARKit, CoreML and CoreData. You will learn by doing, where every lesson is incorporated into a real-world app project. After the course, you will be able to build any app you want."
+        "details": "You will create a portfolio of 15 apps to be able apply for junior developer jobs at a technology company. You will learn Xcode, UIKit and SwiftUI, ARKit, CoreML and CoreData. You will learn by doing, where every lesson is incorporated into a real-world app project. After the course, you will be able to build any app you want.",
+		"price": 22
 	}
 ]
